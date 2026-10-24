@@ -27,13 +27,37 @@ precious-akpan, PetJs, pope-h, edehvictor, kryputh, Godbrand0
 
 ## Forks
 
-| Fork |
-| --- |
-| [abayomicornelius/settlix-contracts](https://github.com/abayomicornelius/settlix-contracts) |
-| [abayomiwav/settlix-contracts](https://github.com/abayomiwav/settlix-contracts) |
-| [chonilius/settlix-contracts](https://github.com/chonilius/settlix-contracts) |
-| [prodbycorne/settlix-contracts](https://github.com/prodbycorne/settlix-contracts) |
-| [Temi-suwa18/settlix-contracts](https://github.com/Temi-suwa18/settlix-contracts) |
+25 people have forked this repository. Thank you for your interest.
+Once your first pull request is merged, you move from this list to the code
+contributors table above.
+
+| # | Owner | Fork |
+| --- | --- | --- |
+| 1 | [@abayomicornelius](https://github.com/abayomicornelius) | [abayomicornelius/settlix-contracts](https://github.com/abayomicornelius/settlix-contracts) |
+| 2 | [@abayomiwav](https://github.com/abayomiwav) | [abayomiwav/settlix-contracts](https://github.com/abayomiwav/settlix-contracts) |
+| 3 | [@alansamdev](https://github.com/alansamdev) | [alansamdev/settlix-contracts](https://github.com/alansamdev/settlix-contracts) |
+| 4 | [@boluwacodes](https://github.com/boluwacodes) | [boluwacodes/settlix-contracts](https://github.com/boluwacodes/settlix-contracts) |
+| 5 | [@chonilius](https://github.com/chonilius) | [chonilius/settlix-contracts](https://github.com/chonilius/settlix-contracts) |
+| 6 | [@choniszn1](https://github.com/choniszn1) | [choniszn1/settlix-contracts](https://github.com/choniszn1/settlix-contracts) |
+| 7 | [@circleboyslimited](https://github.com/circleboyslimited) | [circleboyslimited/settlix-contracts](https://github.com/circleboyslimited/settlix-contracts) |
+| 8 | [@davidishere1](https://github.com/davidishere1) | [davidishere1/settlix-contracts](https://github.com/davidishere1/settlix-contracts) |
+| 9 | [@Derinsolababy](https://github.com/Derinsolababy) | [Derinsolababy/settlix-contracts](https://github.com/Derinsolababy/settlix-contracts) |
+| 10 | [@floraispretty](https://github.com/floraispretty) | [floraispretty/settlix-contracts](https://github.com/floraispretty/settlix-contracts) |
+| 11 | [@gideononiru](https://github.com/gideononiru) | [gideononiru/settlix-contracts](https://github.com/gideononiru/settlix-contracts) |
+| 12 | [@jakespepe](https://github.com/jakespepe) | [jakespepe/settlix-contracts](https://github.com/jakespepe/settlix-contracts) |
+| 13 | [@laurastephaniee](https://github.com/laurastephaniee) | [laurastephaniee/settlix-contracts](https://github.com/laurastephaniee/settlix-contracts) |
+| 14 | [@miraclesonly](https://github.com/miraclesonly) | [miraclesonly/settlix-contracts](https://github.com/miraclesonly/settlix-contracts) |
+| 15 | [@oluwarantimini](https://github.com/oluwarantimini) | [oluwarantimini/settlix-contracts](https://github.com/oluwarantimini/settlix-contracts) |
+| 16 | [@onejasonn](https://github.com/onejasonn) | [onejasonn/settlix-contracts](https://github.com/onejasonn/settlix-contracts) |
+| 17 | [@posimideveloper](https://github.com/posimideveloper) | [posimideveloper/settlix-contracts](https://github.com/posimideveloper/settlix-contracts) |
+| 18 | [@praizehimm](https://github.com/praizehimm) | [praizehimm/settlix-contracts](https://github.com/praizehimm/settlix-contracts) |
+| 19 | [@presidoclintonbased-alt](https://github.com/presidoclintonbased-alt) | [presidoclintonbased-alt/settlix-contracts](https://github.com/presidoclintonbased-alt/settlix-contracts) |
+| 20 | [@presidojay1](https://github.com/presidojay1) | [presidojay1/settlix-contracts](https://github.com/presidojay1/settlix-contracts) |
+| 21 | [@prodbycorne](https://github.com/prodbycorne) | [prodbycorne/settlix-contracts](https://github.com/prodbycorne/settlix-contracts) |
+| 22 | [@richardtoms100](https://github.com/richardtoms100) | [richardtoms100/settlix-contracts](https://github.com/richardtoms100/settlix-contracts) |
+| 23 | [@Smoothjane](https://github.com/Smoothjane) | [Smoothjane/settlix-contracts](https://github.com/Smoothjane/settlix-contracts) |
+| 24 | [@springswell](https://github.com/springswell) | [springswell/settlix-contracts](https://github.com/springswell/settlix-contracts) |
+| 25 | [@Temi-suwa18](https://github.com/Temi-suwa18) | [Temi-suwa18/settlix-contracts](https://github.com/Temi-suwa18/settlix-contracts) |
 
 ## How to contribute
 
