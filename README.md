@@ -1,8 +1,5 @@
 # Settlix Contracts
 
-[![CI](https://github.com/SETTLIX/settlix-contracts/actions/workflows/ci.yml/badge.svg)](https://github.com/SETTLIX/settlix-contracts/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![soroban-sdk](https://img.shields.io/badge/soroban--sdk-27.0.6-0b7285)
 
 Soroban smart contracts for Settlix: merchants issue invoices, customers pay
 them in USDC or XLM by scanning a QR code, and the merchant is settled in the
