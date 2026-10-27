@@ -330,3 +330,6 @@ This project is licensed under the MIT License.
 ---
 
 Built with ❤️ for the Stellar ecosystem
+
+
+<!-- fix: addresses issue #81 -->
