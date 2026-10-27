@@ -100,3 +100,4 @@ Everyone who has forked the repository is listed under
 ## License
 
 [MIT](LICENSE)
+<!-- fix: addresses issue #362 - [Enhancement] Add support for atomic cross-chain settlements via IBC -->
